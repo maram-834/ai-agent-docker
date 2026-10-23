@@ -1,0 +1,13 @@
+venv
+.venv
+__pycache__
+*.pyc
+.git
+.gitignore
+.env
+.vscode
+.idea
+*.log
+Dockerfile
+.dockerignore
+db.sqlite3
